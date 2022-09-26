@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://kit.fontawesome.com/d6f455d972.js" crossorigin="anonymous"></script>
+          <link rel="stylesheet" href="styles.css"/>
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">"
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap" rel="stylesheet">
+<title> Diana Starzyńska Portfolio</title>
+<meta charset="UTF-8"/> 
+    </head>
+    <body>
+        <nav>
+            <img class="logo" src="images/logo.jpg" alt="Diana Starzyńska logo"> </img>
+            <ul class="navbar">
+                <li> <a href="#aboutme"> About me </a> </li>
+                <li> <a href="https://github.com/diana-starz"> Github </a> </li>
+                <li> <a href="pages/contact.html"> Contact</a> </li>
+            </ul>
+        </nav>
+
+<div class="hero"> 
+    <div class="hero-info">
+    <h1 id="name"> Diana Starzyńska</h1>
+    <p> I am a professional Software Developer.  I enjoying creating and designing various types of websites and applications.</p>
+    
+    </div>
+    <a href="https://github.com/diana-starz">   <div class="second">
+    <p> MY PORTFOLIO </p>
+    </div> </a>
+
+</div>
+<div class="about-me"> 
+    <div class="secondclass"><img class="avatar" src="images/headshot.jpg" alt="Diana Starzyńska picture"/></div>
+    <div class="text">
+    <h2> <a name="aboutme"> </a>About me</a></h2>
+    <p> I was born in Canada and raised in Poland. I discovered my passion for software development while searching for new marketing ideas. </p>
+    </div>
+</div>
+
+<section>
+    <i class="fa-brands fa-facebook"></i>
+    <i class="fa-brands fa-linkedin"></i>
+    <i class="fa-brands fa-instagram"></i>
+</section>
+
+
+<footer>
+    <ul class="footer-list">
+        <li> <a class="list" href="">About me</a></li>
+        <li> <a class="list" href="">Contact</a></li>
+        <li> <a class="list" href="">Github </a></li>
+
+    </ol>
+</footer>
+    </body>
+</html>
